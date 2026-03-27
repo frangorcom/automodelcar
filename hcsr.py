@@ -33,4 +33,4 @@ try:
 except KeyboardInterrupt:
     print("Measurement stopped by User")
 finally:
-    GPIO.cleanup()Copied!   
+    GPIO.cleanup()
